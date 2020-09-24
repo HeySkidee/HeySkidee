@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.discordapp.net/attachments/724649579391221861/758790889249570846/love.png" alt="vscode" width="40" height="40"/>  
+<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/697155215543238740.png?v=1" alt="vscode" width="40" height="40"/>  
 , I'm Harshit</h1>
 <h3 align="center">Self learning Computer Science beginner from India tryin' to learn and create stuff to bring my ideas into real life... Join my <a href="https://discord.gg/7GeZKE6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/7GeZKE6" height="30" width="30" /> Discord</a> </h3>
 
