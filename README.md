@@ -9,7 +9,7 @@
 <img src="https://avatars0.githubusercontent.com/u/26492485?s=200&v=4" alt="discordjs" width="40" height="40"/>  
 
 <br>
-<img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&theme=default" />
-<img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&theme=default" />
-<br>
-
+<table><tr>
+<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&theme=default" /></td>
+<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&theme=default" /></td> 
+</tr></table>  
