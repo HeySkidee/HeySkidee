@@ -11,6 +11,6 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="discord" width="40" height="40"/>
 <br>
 <table><tr>
-<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&theme=default" /></td>
-<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&theme=default" /></td> 
+<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&theme=react" /></td>
+<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&theme=react" /></td> 
 </tr></table>  
