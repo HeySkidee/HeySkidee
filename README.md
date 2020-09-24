@@ -6,8 +6,8 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="60" height="40"/>   
-<img src="https://pngimage.net/wp-content/uploads/2018/06/nodejs-logo-png-8.png" alt="nodejs" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
+<img src="https://pngimage.net/wp-content/uploads/2018/06/nodejs-logo-png-8.png" alt="nodejs" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="discord" width="40" height="40"/>
 <br>
 <table><tr>
