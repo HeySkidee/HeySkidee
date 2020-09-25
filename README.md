@@ -12,6 +12,6 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="discord" width="45" height="45"/>
 <br>
 <table><tr>
-<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=default" /></td>
-<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&hide_border=true&theme=default" /></td> 
+<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=react" /></td>
+<td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&hide_border=true&theme=react" /></td> 
 </tr></table>  
