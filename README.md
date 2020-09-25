@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.discordapp.net/attachments/724649579391221861/758790889249570846/love.png" width="40" height="40"/>  
 , I'm Harshit</h1>
-<h3 align="center">Self learning Computer Science beginner from India trying to learn and create stuff... Join my <a href="https://discord.gg/7GeZKE6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/7GeZKE6" height="30" width="30" /> Discord</a> </h3>
+<h3 align="center">Self learning Computer Science beginner from India trying to learn coding and create stuff... Join my <a href="https://discord.gg/7GeZKE6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/7GeZKE6" height="30" width="30" /> Discord</a> </h3>
 
 <p align="center">  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
