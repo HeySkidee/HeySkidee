@@ -15,3 +15,10 @@
 <td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=default" /></td>
 <td align="center" style="padding=0;width=50%;"><img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&hide_border=true&theme=default" /></td> 
 </tr></table>  
+<br>
+<p align="center">
+<a href="https://www.quora.com/profile/Harshit-Kumar-Ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Harshit-Kumar-Ojha" height="30" width="30" /></a>    
+<a href="https://discord.gg/7GeZKE6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/7GeZKE6" height="30" width="30" /></a>
+<a href="https://www.instagram.com/harshit.kumar.ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshit.kumar.ojha" height="30" width="30" /></a>
+
+</p>
