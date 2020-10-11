@@ -17,8 +17,9 @@
 </tr></table>  
 <br>
 <p align="center">
+<a href="http://harshitkumarojha.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="harshitkumarojha.github.io" height="30" width="30" /></a>  
 <a href="https://www.quora.com/profile/Harshit-Kumar-Ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Harshit-Kumar-Ojha" height="30" width="30" /></a>    
 <a href="https://discord.gg/7GeZKE6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/7GeZKE6" height="30" width="30" /></a>
-<a href="https://www.instagram.com/harshit.kumar.ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshit.kumar.ojha" height="30" width="30" /></a>
+
 
 </p>
