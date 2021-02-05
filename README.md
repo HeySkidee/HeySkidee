@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/403295311189245952.png?v=1" width="40" height="40"/>  
 , I'm Skidee</h1>
-<h4 align="center">Self learning Computer Science beginner trying to learn & create stuff. </h4>
+<h3 align="center">Self learning Computer Science beginner trying to learn & create stuff. </h4>
 
 I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://harshitkumarojha.github.io/">Portfolio</a>...I like <a href="https://harshitkumarojha.github.io/">Coding</a>, making <a href="https://bit.ly/HeySkidee">Beats and Videos</a>.
-Currently focusing on Web Dev and making Discord Bots.
+Currently focusing on Web Dev and making Discord Bots. Fun fact : I play valorant and listens lofi a lot. chocolate milk is best.
 
 ## skills and tools
 
