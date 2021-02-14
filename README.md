@@ -46,8 +46,8 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 
 </p>
 
-<details>
-<summary>stats</summary>
+<details> 
+<summary>stats</summary> 
 
 <table>
 <tr>
@@ -59,6 +59,11 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
     <img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&hide_border=true&theme=react">
 </td> 
 </tr></table> 
+
+![Profile views](https://gpvc.arturio.dev/HarshitKumarOjha) [![GitHub followers](https://img.shields.io/github/followers/HarshitKumarOjha.svg?style=flat-square&color=brightgreen&label=Followers&maxAge=2592000)](https://github.com/HarshitKumarOjha?tab=followers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+
+
 
 </details>
 
