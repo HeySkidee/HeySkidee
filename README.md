@@ -17,7 +17,7 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 <p align="center">
 
 <a href="http://harshitkumarojha.github.io/" target="_blank">
-    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/814/814513.svg?token=exp=1613670239~hmac=db6c68a8c5c46e535bd3d2c13e0813da" alt="harshitkumarojha.github.io" height="30" width="30" />
+    <img align="center" src="https://webstockreview.net/images/globe-icon-png-3.png" alt="harshitkumarojha.github.io" height="40" width="40" />
 </a>  
 <a href="https://discord.gg/59HSBfT" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/100/ffffff/discord-new-logo.png" alt="https://discord.gg/59HSBfT" height="40" width="40" />
