@@ -17,31 +17,31 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 <p align="center">
 
 <a href="http://harshitkumarojha.github.io/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="harshitkumarojha.github.io" height="30" width="30" />
+    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/814/814513.svg?token=exp=1613670239~hmac=db6c68a8c5c46e535bd3d2c13e0813da" alt="harshitkumarojha.github.io" height="30" width="30" />
 </a>  
 <a href="https://discord.gg/59HSBfT" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/59HSBfT" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/fluent/100/ffffff/discord-new-logo.png" alt="https://discord.gg/59HSBfT" height="40" width="40" />
 </a>  
 <a href="https://bit.ly/HeySkidee" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://bit.ly/HeySkidee" height="30" width="30" />
+    <img align="center" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" alt="https://bit.ly/HeySkidee" height="40" width="40" />
 </a>
 <a href="https://dev.to/skidee" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="https://dev.to/skidee" height="30" width="30">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="https://dev.to/skidee" height="30" width="30">
 </a>
 <a href="https://stackoverflow.com/users/13892499/harshit-kumar-ojha?tab=profile" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/13892499/harshit-kumar-ojha?tab=profile" height="30" width="30">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/13892499/harshit-kumar-ojha?tab=profile" height="40" width="40">
 </a>
 <a href="https://www.quora.com/profile/Skidee" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="https://www.quora.com/profile/Skidee" height="30" width="30">
+    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174865.svg?token=exp=1613670069~hmac=a8684b60128024588b23bc6fc2af369d" alt="https://www.quora.com/profile/Skidee" height="30" width="30">
 </a>
 <a href="https://medium.com/@skidee" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@skidee" height="30" width="30">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="https://medium.com/@skidee" height="40" width="40">
 </a>    
 <a href="https://twitter.com/HeySkidee" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/HeySkidee" height="30" width="30">
+    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1613669993~hmac=e6897113ccba39ab0733bb553c34337c" alt="https://twitter.com/HeySkidee" height="30" width="30">
 </a>
 <a href="http://instagram.com/HeySkidee" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="http://instagram.com/HeySkidee" height="30" width="30">
+    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="http://instagram.com/HeySkidee" height="30" width="30">
 </a>
 
 </p>
