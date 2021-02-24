@@ -32,13 +32,13 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/13892499/harshit-kumar-ojha?tab=profile" height="40" width="40">
 </a>
 <a href="https://www.quora.com/profile/Skidee" target="_blank">
-    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174865.svg?token=exp=1613670069~hmac=a8684b60128024588b23bc6fc2af369d" alt="https://www.quora.com/profile/Skidee" height="30" width="30">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" alt="https://www.quora.com/profile/Skidee" height="35" width="35">
 </a>
 <a href="https://medium.com/@skidee" target="_blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="https://medium.com/@skidee" height="40" width="40">
 </a>    
 <a href="https://twitter.com/HeySkidee" target="_blank">
-    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1613669993~hmac=e6897113ccba39ab0733bb553c34337c" alt="https://twitter.com/HeySkidee" height="30" width="30">
+    <img align="center" src="https://camo.githubusercontent.com/369a92147bb30cb3de02497c1a8e6fa3e787c3489c1ce07af1ddc99e3e6c5691/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3137342f3137343837362e737667" alt="https://twitter.com/HeySkidee" height="30" width="30">
 </a>
 <a href="http://instagram.com/HeySkidee" target="_blank">
     <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="http://instagram.com/HeySkidee" height="30" width="30">
