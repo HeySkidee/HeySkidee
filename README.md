@@ -28,8 +28,8 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 <a href="https://dev.to/skidee" target="_blank">
     <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="https://dev.to/skidee" height="30" width="30">
 </a>
-<a href="https://stackoverflow.com/users/13892499/harshit-kumar-ojha?tab=profile" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/13892499/harshit-kumar-ojha?tab=profile" height="40" width="40">
+<a href="https://stackoverflow.com/users/13892499/skidee?tab=profile" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/13892499/skidee?tab=profile" height="40" width="40">
 </a>
 <a href="https://www.quora.com/profile/Skidee" target="_blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" alt="https://www.quora.com/profile/Skidee" height="35" width="35">
