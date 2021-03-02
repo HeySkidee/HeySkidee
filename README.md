@@ -2,7 +2,7 @@
 , I'm Skidee</h1>
 <h2 align="center">Self learning Computer Science beginner trying to learn & create stuff. </h2>
 
-I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://harshitkumarojha.github.io/">Portfolio</a>...I like <a href="https://harshitkumarojha.github.io/">Coding</a>, making <a href="https://bit.ly/HeySkidee">Beats and Videos</a>.
+I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://heyskidee.github.io">Portfolio</a>...I like <a href="https://heyskidee.github.io">Coding</a>, making <a href="https://bit.ly/HeySkidee">Beats and Videos</a>.
 Currently focusing on Web Dev and making Discord Bots. Fun fact : I play valorant and listens lofi a lot. chocolate milk is best.
 
 ## skills and tools
@@ -16,8 +16,8 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 
 <p align="center">
 
-<a href="http://harshitkumarojha.github.io/" target="_blank">
-    <img align="center" src="https://webstockreview.net/images/globe-icon-png-3.png" alt="harshitkumarojha.github.io" height="40" width="40" />
+<a href="https://heyskidee.github.io/" target="_blank">
+    <img align="center" src="https://webstockreview.net/images/globe-icon-png-3.png" alt="https://heyskidee.github.io" height="40" width="40" />
 </a>  
 <a href="https://discord.gg/59HSBfT" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/100/ffffff/discord-new-logo.png" alt="https://discord.gg/59HSBfT" height="40" width="40" />
@@ -60,7 +60,7 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 </td> 
 </tr></table> 
 
-![Profile views](https://gpvc.arturio.dev/HarshitKumarOjha) [![GitHub followers](https://img.shields.io/github/followers/HarshitKumarOjha.svg?style=flat-square&color=brightgreen&label=Followers&maxAge=2592000)](https://github.com/HarshitKumarOjha?tab=followers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![Profile views](https://gpvc.arturio.dev/HeySkidee) [![GitHub followers](https://img.shields.io/github/followers/HeySkidee.svg?style=flat-square&color=brightgreen&label=Followers&maxAge=2592000)](https://github.com/HeySkidee?tab=followers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 
