@@ -52,11 +52,11 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 <table>
 <tr>
 <td align="center" style="padding=0;width=50%;">
-    <img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api?username=HarshitKumarOjha&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=react">
+    <img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats-new-skidee.vercel.app/api?username=HeySkidee&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=react">
 </td>
 
 <td align="center" style="padding=0;width=50%;">
-    <img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats.harshitkumarojha.vercel.app/api/top-langs/?username=HarshitKumarOjha&show_icons=true&layout=compact&hide_border=true&theme=react">
+    <img align = "center" alt-"Harshit's Github Stats" src ="https://github-readme-stats-new-skidee.vercel.app/api/top-langs/?username=HeySkidee&show_icons=true&layout=compact&hide_border=true&theme=react">
 </td> 
 </tr></table> 
 
