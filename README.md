@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/403295311189245952.png?v=1" width="40" height="40"/>  
 , I'm Skidee</h1>
-<h2 align="center">Self learning Computer Science beginner trying to learn & create stuff. </h2>
+<h2 align="center"> Building random things to learn and have fun. </h2>
 
-I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://heyskidee.github.io">Portfolio</a>...I like <a href="https://heyskidee.github.io">Coding</a>, making <a href="https://bit.ly/HeySkidee">Beats and Videos</a>.
-Currently focusing on Web Dev and making Discord Bots. Fun fact : I play valorant and listens lofi a lot. chocolate milk is best.
+I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://HeySkidee.github.io">Portfolio</a>...I like Coding, making <a href="https://bit.ly/HeySkidee">Beats</a> and <a href="https://bit.ly/Skidee">Videos</a>.
+Currently focusing on Web Dev and making Discord Bots. Fun fact: I play valorant and listens lofi a lot. chocolate milk is best.
 
 ## skills and tools
 
@@ -11,7 +11,7 @@ Currently focusing on Web Dev and making Discord Bots. Fun fact : I play valoran
 
 ---
 
-Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Discord Server</a> 
+Feel free to Join my Discord Servers: <a href="https://discord.gg/AFK4xGmxzf">Personal Server</a> , <a href="https://discord.gg/fCCBANNnGc">Community Server</a> 
 
 
 <p align="center">
@@ -19,7 +19,7 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 <a href="https://heyskidee.github.io/" target="_blank">
     <img align="center" src="https://webstockreview.net/images/globe-icon-png-3.png" alt="https://heyskidee.github.io" height="40" width="40" />
 </a>  
-<a href="https://discord.gg/59HSBfT" target="_blank">
+<a href="https://discord.gg/AFK4xGmxzf" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/100/ffffff/discord-new-logo.png" alt="https://discord.gg/59HSBfT" height="40" width="40" />
 </a>  
 <a href="https://bit.ly/HeySkidee" target="_blank">
@@ -47,7 +47,7 @@ Feel free to Contact me via joining my <a href="https://discord.gg/59HSBfT">Disc
 </p>
 
 <details> 
-<summary>stats</summary> 
+<summary>⚡stats</summary> 
 
 <table>
 <tr>
