@@ -3,7 +3,7 @@
 <h2 align="center"> Building random things to learn and have fun. </h2>
 
 I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://HeySkidee.github.io">Portfolio</a>...I like Coding, making <a href="https://bit.ly/HeySkidee">Beats</a> and <a href="https://bit.ly/Skidee">Videos</a>.
-Currently focusing on Web Dev and making Discord Bots. Fun fact: I play valorant and listens lofi a lot. chocolate milk is best.
+Currently focusing on Web Dev and making Discord Bots. Fun fact: I play valorant and listens lofi a lot. chocolate milk is best<a href="https://Henzo.now.sh">.</a>
 
 ## skills and tools
 
