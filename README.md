@@ -1,50 +1,18 @@
-<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/403295311189245952.png?v=1" width="40" height="40"/>  
-, I'm Skidee</h1>
-<h2 align="center"> Building random things to learn and have fun. </h2>
+## Introduction 
+<p> Hi I'm Skidee (He/Him). I build random things to learn and have fun. </p>
+<p> I mostly <a href ="https://heyskidee.github.io"> code </a> and play valorant but I also make <a href="https://bit.ly/HeySkidee"> beats </a> and <a href="https://bit.ly/Skidee"> videos </a>.
 
-I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://HeySkidee.github.io">Portfolio</a>...I like Coding, making <a href="https://bit.ly/HeySkidee">Beats</a> and <a href="https://bit.ly/Skidee">Videos</a>.
-Currently focusing on Web Dev and making Discord Bots. Fun fact: I play valorant and listens lofi a lot. chocolate milk is best<a href="https://Henzo.now.sh">.</a>
+<!-- I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://HeySkidee.github.io">Portfolio</a>...I like Coding, making <a href="https://bit.ly/HeySkidee">Beats</a> and <a href="https://bit.ly/Skidee">Videos</a>.
+Currently focusing on Web Dev and making Discord Bots. Fun fact: I play valorant and listens lofi a lot. chocolate milk is best<a href="https://Henzo.now.sh">.</a> -->
 
-## skills and tools
+## languages and tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><code><img height="30" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4"></code>
+- C, C++, java, python 
+- Html, css, js, bootstrap
 
----
-
+## Socials 
 Feel free to Join my Discord Servers: <a href="https://discord.gg/AFK4xGmxzf">Personal Server</a> , <a href="https://discord.gg/fCCBANNnGc">Community Server</a> 
-
-
-<p align="center">
-
-<a href="https://heyskidee.github.io/" target="_blank">
-    <img align="center" src="https://webstockreview.net/images/globe-icon-png-3.png" alt="https://heyskidee.github.io" height="40" width="40" />
-</a>  
-<a href="https://discord.gg/AFK4xGmxzf" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluent/100/ffffff/discord-new-logo.png" alt="https://discord.gg/59HSBfT" height="40" width="40" />
-</a>  
-<a href="https://bit.ly/HeySkidee" target="_blank">
-    <img align="center" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" alt="https://bit.ly/HeySkidee" height="40" width="40" />
-</a>
-<a href="https://dev.to/skidee" target="_blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="https://dev.to/skidee" height="30" width="30">
-</a>
-<a href="https://stackoverflow.com/users/13892499/skidee?tab=profile" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/13892499/skidee?tab=profile" height="40" width="40">
-</a>
-<a href="https://www.quora.com/profile/Skidee" target="_blank">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" alt="https://www.quora.com/profile/Skidee" height="35" width="35">
-</a>
-<a href="https://medium.com/@skidee" target="_blank">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="https://medium.com/@skidee" height="40" width="40">
-</a>    
-<a href="https://twitter.com/HeySkidee" target="_blank">
-    <img align="center" src="https://camo.githubusercontent.com/369a92147bb30cb3de02497c1a8e6fa3e787c3489c1ce07af1ddc99e3e6c5691/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3137342f3137343837362e737667" alt="https://twitter.com/HeySkidee" height="30" width="30">
-</a>
-<a href="http://instagram.com/HeySkidee" target="_blank">
-    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="http://instagram.com/HeySkidee" height="30" width="30">
-</a>
-
-</p>
+<p>
 
 <details> 
 <summary>⚡stats</summary> 
