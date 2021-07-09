@@ -2,17 +2,16 @@
 <p> Hi I'm Skidee (He/Him). I build random things to learn and have fun. </p>
 <p> I mostly <a href ="https://heyskidee.github.io"> code </a> and play valorant but I also make <a href="https://bit.ly/HeySkidee"> beats </a> and <a href="https://bit.ly/Skidee"> videos </a>.
 
-<!-- I’m a dumb dev, I love making random stuff and learning new things. You can view my <a href="https://HeySkidee.github.io">Portfolio</a>...I like Coding, making <a href="https://bit.ly/HeySkidee">Beats</a> and <a href="https://bit.ly/Skidee">Videos</a>.
-Currently focusing on Web Dev and making Discord Bots. Fun fact: I play valorant and listens lofi a lot. chocolate milk is best<a href="https://Henzo.now.sh">.</a> -->
-
 ## languages and tools
 
 - C, C++, java, python 
 - Html, css, js, bootstrap
 
 ## Socials 
-Feel free to Join my Discord Servers: <a href="https://discord.gg/AFK4xGmxzf">Personal Server</a> , <a href="https://discord.gg/fCCBANNnGc">Community Server</a> 
+Feel free to Join my Discord Servers: <a href="https://discord.gg/AFK4xGmxzf">Personal Server</a> , <a href="https://discord.gg/fCCBANNnGc">Community Server</a>.
 <p>
+    
+I write blogs sometimes: <a href="https://dev.to/skidee">Dev.to</a> , <a href="https://skidee.medium.com/">Medium</a> , <a href="https://www.quora.com/profile/Skidee">Quora</a> , <a href="https://stackoverflow.com/users/13892499/skidee?tab=profile">Stack overflow</a>.
 
 <details> 
 <summary>⚡stats</summary> 
